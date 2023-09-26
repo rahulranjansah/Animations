@@ -1,4 +1,4 @@
-# AstroAnimations
-Astrophysics Animations
+# Animations
+STEM Animations
 - Added animation files in multiple formats
 - .gbb, .stl, .html majorly
